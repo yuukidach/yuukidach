@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: chendamailbox@foxmail.com
 
-[![yuukidach's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuukidach)](https://github.com/anuraghazra/github-readme-stats)
+![yuukidach's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuukidach)
 
 ![yuukidach's github stats](https://github-readme-stats.vercel.app/api?username=yuukidach&count_private=true&show_icons=true)
