@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: chendamailbox@foxmail.com
 
-<!--START_SECTION:productive-->
-<!--END_SECTION:productive-->
+<!--productive-stat start -->
+<!--productive-stat end -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuukidach&count_private=true&show_icons=true)
+![yuukidach's github stats](https://github-readme-stats.vercel.app/api?username=yuukidach&count_private=true&show_icons=true)
